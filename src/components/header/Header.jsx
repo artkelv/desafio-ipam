@@ -7,11 +7,11 @@ export default function Header(){
             <UnList>
                 <NavBar>
                     <li>
-                        <AncorToMeet href="">Conheça o IPAM</AncorToMeet>
+                        <AncorToMeet href="https://ipam.org.br/sobre-o-ipam/" target="_blank">Conheça o IPAM</AncorToMeet>
                     </li>
                     <ListForHelp>Ajude-os</ListForHelp>
                     <li>
-                        <AncorForHelp href="">Doando</AncorForHelp>
+                        <AncorForHelp href="https://ipam.org.br/doe/" target="_blank">Doando</AncorForHelp>
                     </li>
                 </NavBar>
             </UnList>
