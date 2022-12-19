@@ -1,4 +1,5 @@
 import { createGlobalStyle } from "styled-components";
+import styled from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
    body{
@@ -11,3 +12,6 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Roboto', sans-serif;
    } 
 `;
+export const TestStyle = styled.div`
+   display: flex;
+`
