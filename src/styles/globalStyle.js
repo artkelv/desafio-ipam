@@ -5,7 +5,9 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
     margin: 0;
 
+    background-color: #20252D;
+   
     font-family: 'Inria Serif', serif;
     font-family: 'Roboto', sans-serif;
    } 
-`
+`;
