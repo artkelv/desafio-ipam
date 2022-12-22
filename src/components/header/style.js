@@ -7,8 +7,9 @@ export const HeaderComponent = styled.header`
     background-color: #137B70;
     color: #fff;
 `
-export const TitleIpam = styled.h2`
+export const TitleIpam = styled.h3`
     margin-left: 100px;
+    font-family: 'Roboto', sans-serif;
 `
 export const UnList = styled.ul`
     display: flex;
