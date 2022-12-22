@@ -1,4 +1,5 @@
 import React from 'react';
+import { Footer } from './components/footer/Footer';
 import { FormIpam } from './components/formIpam/FormIpam';
 import Header from './components/header/Header';
 import MyInfo from './components/myInfo/MyInfo';
@@ -12,6 +13,7 @@ function App() {
         <FormIpam />
         <MyInfo />
       </TestStyle>
+      <Footer />
     </div>
   );
 }
