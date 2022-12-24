@@ -22,5 +22,38 @@
 
 <h2>UI -Interface de Usuário</h2>
 
-<p>Na maioria das minhas aplicações que desenvolvo, eu prezo sempre por algo simples e objetivo. Acredido que já temos muito trabalho e dificuldades demais no nosso dia a dia. Tendo isso em mente desenvolvi esta Interface de Usuário que logo de cara, ao entrar no site.</p>
+<p>Na maioria das aplicações que desenvolvo, eu prezo sempre por algo simples e objetivo. Acredido que já temos muito trabalho e dificuldades demais no nosso dia a dia. Tendo isso em mente, desenvolvi esta Interface de Usuário bem simples, mas objetiva. </p>
+
+<h4>Header do projeto</h4>
+
+<p>No Header, quis mostrar do que se trata o projeto (Desafio IPAM/Front-end) e como forma de gratidão, pela oportunidade que me deram, coloquei dois links de acesso, um para que as pessoas visitassem o site do IPAM e conhecessem melhor o trabalho de voces, que é de suma importancia e outro para as pessoas que desejam ajudar doando.</p>
+
+<h4>Conteúdo principal do projeto</h4>
+
+<p>Nesta parte ao lado esquerdo da página, o usuário é cumprimentado e logo pode fazer a sua pesquisa na ao selecionar o Estado e o Municipio desejado. Para obter o resultado o usuário deve clicar no botão "Obter resultado".</p>
+
+<p>Ao lado direito, a primeira vista, o usuário terá uma mensagem por quem foi feito o desafio e uma mensagem de suma importancia que acredito eu, faz jus a toda organização IPAM e coincide com a missão do mesmo.</p>
+
+<p>O lado direito da página irá mudar sempre que o usuário desejar fazer uma busca clicando no botão de "Obter resultado". Após isso, dados referente a busca serão renderizados. </p>
+
+<h4>Header</h4>
+
+
+
+
+<h4></h4>
+<h4></h4>
+<h4></h4>
+<h4></h4>
+
+
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+
+
   
