@@ -12,6 +12,9 @@ export const GlobalStyle = createGlobalStyle`
     font-family: 'Roboto', sans-serif;
    } 
 `;
-export const TestStyle = styled.div`
+export const BoxMain = styled.div`
    display: flex;
+   @media screen and (min-width: 320px) and (max-width: 480px){
+      flex-direction: column;
+   }
 `

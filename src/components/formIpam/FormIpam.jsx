@@ -1,5 +1,5 @@
 import flecha from "../../assets/flecha.png";
-import { MainContent, WelcomeSection, Title, Indication, SubTitle, FormIbge, BoxSelect, TitleSelect, ContentSelect, SelectData, BtnSubmit } from "./style"; 
+import { MainContent, WelcomeSection, Title, Indication, SubTitle, FormIbge, BoxSelect, TitleSelect, ContentSelect, SelectData, BoxBtnSubtmit, BtnSubmit } from "./style"; 
 
 export function FormIpam(){
     return(
@@ -29,7 +29,9 @@ export function FormIpam(){
                         </SelectData>
                     </ContentSelect>
                 </BoxSelect>
-                <BtnSubmit type="submit">Obter resultado</BtnSubmit>
+                <BoxBtnSubtmit>
+                    <BtnSubmit type="submit">Obter resultado</BtnSubmit>
+                </BoxBtnSubtmit>
             </FormIbge>
         </MainContent>
     )

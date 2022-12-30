@@ -4,17 +4,17 @@ import { FormIpam } from './components/formIpam/FormIpam';
 import Header from './components/header/Header';
 import MyInfo from './components/myInfo/MyInfo';
 import ShowData from './components/showData/ShowData';
-import { TestStyle } from "./styles/globalStyle";
+import { BoxMain } from "./styles/globalStyle";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <TestStyle>
+      <BoxMain>
         <FormIpam />
         <MyInfo />
         {/* <ShowData/> */}
-      </TestStyle>
+      </BoxMain>
       <Footer />
     </div>
   );
