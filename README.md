@@ -16,13 +16,14 @@
 
 <hr>
 
+<h2>Desafio</h2>
+
+<p>Foi solicitado que eu criasse uma SPA com React + Redux utilizando API do IBGE. A aplicação deveria conter 2 selects onde o primeiro deveria selecionar o Estado desejado e o segundo deveria conter todos os municipios do mesmo. Então o ultimo select dependia do primeiro. Em seguida eu deveria mostrar algumas informações do Município selecionado, dados como: Mesorregião, Microrregião, UF e Região do Município. Este era o meu desafio.</p>
+
 <h2>Como usar a aplicação</h2>
 
 <p>A aplicação conta com dois campos do tipo Select. No primeiro campo, o usuário deve escolher o Estado. Nesta etapa o usuário contará com todas as opções de estados que o Brasil tem. Selecione um. Após isso, o segundo Select contará com os Municípios do Estado que foi selecionado. Selecione o Município desejado e clique no botão abaixo "Obter resultado" e espere seu resultado ser renderizado ao lado direito da aplicação.</p>
 
-<h2>Desafio</h2>
-
-<p>Foi solicitado que eu criasse uma SPA com React + Redux utilizando API do IBGE. A aplicação deveria conter 2 selects onde o primeiro deveria selecionar o Estado desejado e o segundo deveria conter todos os municipios do mesmo. Então o ultimo select dependia do primeiro. Em seguida eu deveria mostrar algumas informações do Município selecionado, dados como: Mesorregião, Microrregião, UF e Região do Município. Este era o meu desafio.</p>
 
 <h2>UI - Interface de Usuário</h2>
 
