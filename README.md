@@ -30,6 +30,8 @@
 
 <p>Na maioria das aplicações que desenvolvo, eu prezo sempre por algo simples e objetivo. Acredido que já temos muito trabalho e dificuldades demais no nosso dia a dia. Tendo isso em mente, desenvolvi esta Interface de Usuário bem simples, mas objetiva. </p>
 
+<h3>Cores do projeto</h3>
+
 <h3>Header</h3>
 
 <p>No Header, quis mostrar do que se trata o projeto (Desafio IPAM/Front-end) e como forma de gratidão, pela oportunidade que me deram, coloquei dois links de acesso, um para que as pessoas visitassem o site do IPAM e conhecessem melhor o trabalho de voces, que é de suma importancia e outro para as pessoas que desejam ajudar doando.</p>
@@ -46,10 +48,11 @@
 
 <p>O footer é algo bem simples que conta apenas com um link que é destinado justamente a esta página, um pequeno texto de agradecimento e minhas redes sociais, onde voces podem saber um pouco mais de mim e também visualizar projetos Front e também Back-end.</p>
 
+<h2>Fotos do projeto</h2>
+<h2>Agradecimentos</h2>
 
 
 
-<h4></h4>
 <h4></h4>
 <h4></h4>
 <h4></h4>
