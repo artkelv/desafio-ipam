@@ -9,7 +9,7 @@
 
 - [StyledComponents](https://styled-components.com/) - CSS dentro do JS.
 - [Figma](https://www.figma.com/) - Ferramentar de Design, usada para prototipagem.
-        - <a href="">Link do Protótipo do projeto.<>
+        - <a href="">Link do Protótipo do projeto.</a>
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código.
 - [React](https://pt-br.reactjs.org/) - Linguagem que usei neste projeto.
 - [Redux](https://redux-toolkit.js.org/) - Biblioteca usada para manipular estados.
