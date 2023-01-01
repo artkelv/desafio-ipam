@@ -7,10 +7,11 @@
   
  <h2> :hammer_and_wrench: Construído com </h2>
 
-- [StyledComponents](https://styled-components.com/) - CSS dentro do JS.<br>
-- [Figma](https://www.figma.com/) - Ferramentar de Design, usada para prototipagem.<br>
-- [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código.<br>
-- [React](https://pt-br.reactjs.org/) - Linguagem que usei neste projeto.<br>
+- [StyledComponents](https://styled-components.com/) - CSS dentro do JS.
+- [Figma](https://www.figma.com/) - Ferramentar de Design, usada para prototipagem.
+        - <a href="">Link do Protótipo do projeto.<>
+- [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código.
+- [React](https://pt-br.reactjs.org/) - Linguagem que usei neste projeto.
 - [Redux](https://redux-toolkit.js.org/) - Biblioteca usada para manipular estados.
 - [Surge](https://surge.sh/) - Biblioteca usada para publicar o projeto na Internet.
 
