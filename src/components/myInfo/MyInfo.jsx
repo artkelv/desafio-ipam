@@ -8,7 +8,7 @@ export default function MyInfo(){
                     <Title>Este desafio foi feito por</Title>
                     <h1><SubTitle>Arthur Kelvim.</SubTitle></h1>
                 </hgroup>
-                <ImportantText>“ Um meio ambiente preservado, é um futuro assegurado. ”</ImportantText>
+                <ImportantText>“Um meio ambiente preservado, é um futuro assegurado.”</ImportantText>
             </SubSectionInfo>
         </section>
     )
