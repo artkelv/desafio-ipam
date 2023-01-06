@@ -1,53 +1,79 @@
-import { SectionShowData, TitleData, Info, FirstData, SecondData, Title, SubTitle, DataFetch, BoxBtn, BtnClose } from "./style";
+import {
+  SectionShowData,
+  TitleData,
+  Info,
+  FirstData,
+  SecondData,
+  Title,
+  SubTitle,
+  DataFetch
+} from "./style";
+import { useSelector } from "react-redux";
 
-export default function ShowData() {
+function ShowData() {
+  const { infoMunicipios, errorInfoMunicipios } = useSelector((state) => state);
+
+  const {
+    nomeDoMunicipio,
+    idDoMunicipio,
+    idMicrorregiao,
+    nomeMicrorregiao,
+    idMesorregiao,
+    nomeMesorregiao,
+    idUf,
+    siglaUf,
+    nomeUf,
+    idRegiao,
+    siglaRegiao,
+  } = infoMunicipios;
+
   return (
     <SectionShowData>
-        <TitleData>Aqui está suas <Info>informações:</Info></TitleData>
+      <TitleData>
+        Aqui está suas <Info>informações:</Info>
+      </TitleData>
       <FirstData>
         <div>
           <Title>Município</Title>
           <SubTitle>Nome do Município:</SubTitle>
-          <DataFetch>Angra dos Reis</DataFetch>
+          <DataFetch>{nomeDoMunicipio}</DataFetch>
           <SubTitle>ID do Município:</SubTitle>
-          <DataFetch>365</DataFetch>
+          <DataFetch>{idDoMunicipio}</DataFetch>
         </div>
         <div>
           <Title>Microrregião</Title>
           <SubTitle>ID da Microrregião:</SubTitle>
-          <DataFetch>98566</DataFetch>
+          <DataFetch>{idMicrorregiao}</DataFetch>
           <SubTitle>Nome da Microrregião:</SubTitle>
-          <DataFetch>Uberaba</DataFetch>
+          <DataFetch>{nomeMicrorregiao}</DataFetch>
         </div>
         <div>
           <Title>Mesorregião</Title>
           <SubTitle>ID da mesorregiao:</SubTitle>
-          <DataFetch>63485</DataFetch>
+          <DataFetch>{idMesorregiao}</DataFetch>
           <SubTitle>Nome da Messorregião:</SubTitle>
-          <DataFetch>Angra</DataFetch>
+          <DataFetch>{nomeMesorregiao}</DataFetch>
         </div>
       </FirstData>
       <SecondData>
         <div>
           <Title>Mesorregião</Title>
           <SubTitle>ID da UF:</SubTitle>
-          <DataFetch>3485</DataFetch>
+          <DataFetch>{idUf}</DataFetch>
           <SubTitle>Sigla da UF:</SubTitle>
-          <DataFetch>RJ</DataFetch>
-          <SubTitle>Sigla do UF:</SubTitle>
-          <DataFetch>Angra dos Reis</DataFetch>
+          <DataFetch>{siglaUf}</DataFetch>
+          <SubTitle>Nome da UF:</SubTitle>
+          <DataFetch>{nomeUf}</DataFetch>
         </div>
         <div>
           <Title>Região</Title>
-          <SubTitle>ID a Região:</SubTitle>
-          <DataFetch>563451</DataFetch>
+          <SubTitle>ID da Região:</SubTitle>
+          <DataFetch>{idRegiao}</DataFetch>
           <SubTitle>Sigla da Região:</SubTitle>
-          <DataFetch>RJ</DataFetch>
+          <DataFetch>{siglaRegiao}</DataFetch>
         </div>
       </SecondData>
-      <BoxBtn>
-        <BtnClose>Apagar dados</BtnClose>
-      </BoxBtn>
     </SectionShowData>
   );
 }
+export default ShowData;

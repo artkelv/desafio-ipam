@@ -40,30 +40,10 @@ export const SubTitle = styled.h6`
     margin: 12px 0;
 `
 export const DataFetch = styled.span`
-    border: 1px solid #137B70;
-    display: inline-block;
-    width: 150px;
+    border-bottom: 1px solid #137B70;
+    height: 30px;
     padding: 2px 3px;
     font-size: 13px;
     color: #fff;
-    border-radius: 15px;
     text-align: center;
-`
-export const BoxBtn = styled.div`
-    width: 100%;
-    display: flex;
-    justify-content: flex-end;
-`
-export const BtnClose = styled.button`
-    margin-right: 50px;
-    border: none;
-    background-color: #137B70;
-    color: #fff;
-    font-size: 11px;
-    padding: 5px 10px;
-    border-radius: 5px;
-    cursor: pointer;
-    &:hover{
-        background-color: #086157;
-    }
 `
