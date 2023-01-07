@@ -1,9 +1,9 @@
-import React from 'react';
+import Spa from './pages/Spa';
 
 function App() {
   return (
-    <div className="App">
-      Teste IPAM
+    <div>
+      <Spa />
     </div>
   );
 }
