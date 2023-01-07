@@ -10,6 +10,9 @@ export const SectionShowData = styled.section`
     justify-content: center;
     align-items: center;
     width: 60vw;
+    @media screen and (min-width: 320px) and (max-width: 480px){
+        margin: 0 auto 50px;
+    }
 `
 export const TitleData = styled.h3`
     margin-bottom: 40px;
