@@ -19,7 +19,27 @@ export const ChallengerDetais = styled.a`
     &:hover{
         color: #333;
     }
+    @media screen and (min-width: 320px) and (max-width: 480px){
+        font-size: 14px;
+    }
 `
+export const Thanks = styled.span`
+    @media screen and (min-width: 320px) and (max-width: 480px){
+        display: none;
+    }
+`
+
 export const AncorLinkedin = styled.a`
     margin: 0 10px;
+`
+export const SectionImgIcons = styled.section`
+    @media screen and (min-width: 320px) and (max-width: 480px){
+        display: flex;
+    }
+`
+export const ImgIcons = styled.img`
+    width: 50px;
+    @media screen and (min-width: 320px) and (max-width: 480px){
+        width: 25px;
+    }
 `
