@@ -73,6 +73,7 @@ export const SelectData = styled.select`
     margin-left: 30px;
     height: 35px;
     border-radius: 10px;
+    text-align: center;
     @media screen and (min-width: 320px) and (max-width: 480px){
         width: 150px;
         height: 30px;

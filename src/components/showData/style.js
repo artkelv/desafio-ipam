@@ -12,6 +12,7 @@ export const SectionShowData = styled.section`
     width: 60vw;
     @media screen and (min-width: 320px) and (max-width: 480px){
         margin: 0 auto 50px;
+        width: 90vw;
     }
 `
 export const TitleData = styled.h3`
