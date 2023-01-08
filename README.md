@@ -63,19 +63,27 @@
 <p>O footer é algo bem simples que conta apenas com um link que é destinado justamente a esta página, um pequeno texto de agradecimento e minhas redes sociais, onde voces podem saber um pouco mais de mim e também visualizar projetos Front e também Back-end.</p>
 
 <h2>Fotos do projeto</h2>
+
+![IPAM_1](https://user-images.githubusercontent.com/85260996/211205473-90854081-2d64-4af6-aa68-2fabeccaf1d3.PNG)
+![IPAM_3](https://user-images.githubusercontent.com/85260996/211205480-425bc45c-59ee-41af-a417-02368ffa0f23.PNG)
+![IPAM_2](https://user-images.githubusercontent.com/85260996/211205564-51c2dbf2-7808-42d6-b656-8f3e013ebca9.PNG)
+
 <h2>Agradecimentos</h2>
 
 
 
+
 <h4></h4>
 <h4></h4>
 <h4></h4>
+
 
 
 
 
 
 <p></p>
+
 <p></p>
 <p></p>
 
