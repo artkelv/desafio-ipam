@@ -65,28 +65,10 @@
 <h2>Fotos do projeto</h2>
 
 ![IPAM_1](https://user-images.githubusercontent.com/85260996/211205473-90854081-2d64-4af6-aa68-2fabeccaf1d3.PNG)
-![IPAM_3](https://user-images.githubusercontent.com/85260996/211205480-425bc45c-59ee-41af-a417-02368ffa0f23.PNG)
 ![IPAM_2](https://user-images.githubusercontent.com/85260996/211205564-51c2dbf2-7808-42d6-b656-8f3e013ebca9.PNG)
+![IPAM_3](https://user-images.githubusercontent.com/85260996/211205480-425bc45c-59ee-41af-a417-02368ffa0f23.PNG)
 
 <h2>Agradecimentos</h2>
 
-
-
-
-<h4></h4>
-<h4></h4>
-<h4></h4>
-
-
-
-
-
-
-<p></p>
-
-<p></p>
-<p></p>
-
-
-
+<p>Eu gostaria de deixar o meu muitissímo obrigado ao grupo IPAM, por ter me dado esta oportunidade, não foi algo simples, pelo contrário, foi desafiador, me testei muito nesse desafio, tive de buscar conhecimento em várias coisas que não sabia, mas por fim deu tudo certo. Eu gostaria de dizer que o trabalho ficará aqui e futuramente irei melhorá-lo. As pessoas que visitarem o projeto e quiserem dar idéias de como melhorá-lo, será sempre bem vindo, no meu perfil aqui do github qualquer um consegue me contatar facilmente. No mais é isto, um obrigado. :)</p>
   
