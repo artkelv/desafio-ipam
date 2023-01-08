@@ -30,7 +30,21 @@
 
 <p>Na maioria das aplicações que desenvolvo, eu prezo sempre por algo simples e objetivo. Acredido que já temos muito trabalho e dificuldades demais no nosso dia a dia. Tendo isso em mente, desenvolvi esta Interface de Usuário bem simples, mas objetiva. </p>
 
-<h3>Cores do projeto</h3>
+<h3>Protótipo do projeto</h3>
+
+<p>No design, prototipação refere-se a como o projeto irá ficar no seu design final. Tendo isso em mente, acesse o link abaixo para visualizar o protótipo em que criei com a ferramenta Figma.</p>
+
+<a href="https://www.figma.com/file/c9WjdGc27o7Ag9NfsHjzBd/Desafio-IPAM?node-id=0%3A1&t=WlmgsUFQ3jCaPROx-1">Visualizar protótipo</a>
+
+<h3>Paleta de Cores</h3>
+
+<p>Acredito que não haveria sentindo escolher outras cores que nao ligassem ao meio ambiente, então o verde foi escolhido como cor principal, o branco com sentindo de "indicação" e vermelho "atenção ou resposta".</p>
+
+<p>20252D - Azul escuro</p>
+<p>137B70 - Verde claro</p>
+<p>FFFFFF - Branco</p>
+<p>E90000 - Vermelho</p>
+<p>137B70 - Verde Escuro</p>
 
 <h3>Header</h3>
 
