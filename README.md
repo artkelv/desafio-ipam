@@ -70,4 +70,6 @@
 <h2>Agradecimentos</h2>
 
 <p>Eu gostaria de deixar o meu muitissímo obrigado ao grupo IPAM, por ter me dado esta oportunidade, não foi algo simples, pelo contrário, foi desafiador, me testei muito nesse desafio, tive de buscar conhecimento em várias coisas que não sabia, mas por fim deu tudo certo. Eu gostaria de dizer que o trabalho ficará aqui e futuramente irei melhorá-lo. As pessoas que visitarem o projeto e quiserem dar idéias de como melhorá-lo, será sempre bem vindo, no meu perfil aqui do github qualquer um consegue me contatar facilmente. No mais é isto, um obrigado. :)</p>
+
+<p>Ultima atualização: domingo, 8 de janeiro de 2023 as 12:56</p>
   
