@@ -2,16 +2,15 @@
 
   <a href="https://fumblisng-celery.surge.sh/" target="_Blank">Link para visualização do projeto</a>
   
-  <p>Olá amigos, me chamo Arthur Kelvim e estou aqui hoje para falar um pouquinho deste desafio que por mim mesmo. Gostaria de agradecer ao grupo IPAM(Instituto de Pesquisa Ambiental do Amazonas), pela oportunidade de está mostrando o meu trabalho, prometo não decepciona-los. A partir daqui, irei ficar encarregado para que saibam assim como eu, como este projeto foi pensado e desenvolvido. Todas as informações do projeto ficará abaixo de uma forma simples e objetiva. </p>
+  <p>Olá amigos, me chamo Arthur Kelvim e estou aqui hoje para falar um pouquinho deste desafio que foi feito por mim mesmo. Gostaria de agradecer ao grupo IPAM(Instituto de Pesquisa Ambiental do Amazonas), pela oportunidade de está mostrando o meu trabalho, prometo não decepciona-los. A partir daqui, irei ficar encarregado para que saibam assim como eu, como este projeto foi pensado e desenvolvido. Todas as informações do projeto ficará abaixo de uma forma simples e objetiva. </p>
 
   
  <h2> :hammer_and_wrench: Construído com </h2>
 
 - [StyledComponents](https://styled-components.com/) - CSS dentro do JS.
 - [Figma](https://www.figma.com/) - Ferramentar de Design, usada para prototipagem.
-        - <a href="">Link do Protótipo do projeto.</a>
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código.
-- [React](https://pt-br.reactjs.org/) - Linguagem que usei neste projeto.
+- [React](https://pt-br.reactjs.org/) - Biblioteca JS usada para criação de interfaces.
 - [Redux](https://redux-toolkit.js.org/) - Biblioteca usada para manipular estados.
 - [Surge](https://surge.sh/) - Biblioteca usada para publicar o projeto na Internet.
 
@@ -52,7 +51,7 @@
 
 <h3>Conteúdo principal do projeto</h3>
 
-<p>Nesta parte ao lado esquerdo da página, o usuário é cumprimentado e logo pode fazer a sua pesquisa na ao selecionar o Estado e o Municipio desejado. Para obter o resultado o usuário deve clicar no botão "Obter resultado".</p>
+<p>Nesta parte ao lado esquerdo da página, o usuário é cumprimentado e logo pode fazer a sua pesquisa ao selecionar o Estado e o Municipio desejado. Para obter o resultado o usuário deve clicar no botão "Obter resultado".</p>
 
 <p>Ao lado direito, a primeira vista, o usuário terá uma mensagem por quem foi feito o desafio e uma mensagem de suma importancia que acredito eu, faz jus a toda organização IPAM e coincide com a missão do mesmo.</p>
 
